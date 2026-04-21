@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aruna S 👋
 
-<!--
-**arunasubramanian-95/arunasubramanian-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst transitioning from IT Service Desk & BPO background
 
-Here are some ideas to get you started:
+🔧 Tools & Skills
+- Languages: Python, SQL
+- Libraries: Pandas
+- Visualization: Power BI, Tableau
+- Other: Excel, Data Cleaning, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Background
+- B.A English Literature
+- 4+ years Technical BPO
+- 1.5 years IT Service Desk
+
+🌱 Currently working on my first data projects
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruna-s-a40198405/)
