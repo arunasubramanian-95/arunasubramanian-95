@@ -1,6 +1,6 @@
 # Hi, I'm Aruna S 👋
 
-🎯 Aspiring Data Analyst transitioning from IT Service Desk & BPO background
+🎯 Aspiring Data Analyst transitioning from IT Service Desk & Technical BPO background
 
 🔧 Tools & Skills
 - Languages: Python, SQL
