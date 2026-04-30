@@ -1,7 +1,6 @@
 # Hi, I'm Aruna S 👋
 
-🎯 Aspiring Data Analyst transitioning from IT Service Desk & Technical BPO background
-
+🎯 Data Analyst with strong background in IT Desk Analysis & Technical Operations
 🔧 Tools & Skills
 - Languages: Python, SQL
 - Libraries: Pandas
@@ -10,9 +9,7 @@
 
 📚 Background
 - B.A English Literature
-- 4+ years Technical BPO
-- 1.5 years IT Service Desk
-
-🌱 Currently working on my first data projects
+- 4+ years Technical Operations
+- 1.5 years IT Desk Analyst
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruna-s-a40198405/)
