@@ -1,6 +1,7 @@
 # Hi, I'm Aruna S 👋
 
 🎯 Data Analyst with strong background in IT Desk Analysis & Technical Operations
+
 🔧 Tools & Skills
 - Languages: Python, SQL
 - Libraries: Pandas
